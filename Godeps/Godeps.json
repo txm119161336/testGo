@@ -1,0 +1,11 @@
+{
+	"ImportPath": "com.pinganfu.test/test",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v62",
+	"Deps": [
+		{
+			"ImportPath": "com.pinganfu.test/mymath",
+			"Rev": "382f6fade040f135604600b2a3fc42366f4e6250"
+		}
+	]
+}
